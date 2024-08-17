@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', async () => {
     const categoriaSelect = document.getElementById("categoria-select");
-    const contenedorProductos = document.getElementById("contenedor-productos");
+    const contenedorProductos = document.getElementById("nuestros-productos");
 
     const products = await cargarProductos();
     if (products) {
@@ -40,7 +40,7 @@ async function cargarProductos() {
 }
 
 const mostrarProductos = (categoria, productos, telefono) => {
-    const contenedorProductos = document.getElementById("contenedor-productos");
+    const contenedorProductos = document.getElementById("nuestros-productos");
     const productosFiltrados = productos.filter(producto => producto.categoria === categoria);
     contenedorProductos.innerHTML = '';
 
