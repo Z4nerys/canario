@@ -127,13 +127,17 @@ nav select option {
 .card {
     display: flex;
     flex-direction: column;
-    background-color: var(--secondary-bg-color); /* Fondo blanco o el color que prefieras */
+    background-color: var(--secondary-bg-color);
     border-radius: 10px;
     color: white;
     overflow: hidden;
     width: 300px; /* Ajusta el ancho según sea necesario */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 0px 31px;
+}
+
+.card:hover {
+    background-color: var(--primary-bg-color);
 }
 
 .card-image {
