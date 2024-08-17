@@ -1,0 +1,2120 @@
+{
+    "telefono": "1134343601",
+    "categorias": [
+        "cargadores",
+        "auricular",
+        "computacion-gaming",
+        "consolas-gaming",
+        "soportes-holder",
+        "radios-stereo-microfonos",
+        "smart-TV",
+        "otros-bluetooth",
+        "ferreteria-jugueteria",
+        "led-electronics-led",
+        "almacenamiento",
+        "parlantes",
+        "cables"
+    ],
+    "productos": [
+        {
+            "id": 1,
+            "titulo": "Carga Rápida V8",
+            "precio": 5500,
+            "imagen": "imagenes/full-stack.jpg",
+            "descripcion": "loremCargadorloremCargador V8 MicroUSB de carga rápida de 3.1,loremCargador V8 MicroUSB de carga rápida de 3.1,loremCargador V8 MicroUSB de carga rápida de 3.1,loremCargador V8 MicroUSB de carga rápida de 3.1, V8 MicroUSB de carga rápida de 3.1,",
+            "actualizacion": "06/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 2,
+            "titulo": "Carga Rap Tipo C",
+            "precio": 6000,
+            "imagen": "imagenes/python.png",
+            "descripcion": "Cargador Imega Type C-USB A+C - PD 20W de 5A",
+            "actualizacion": "06/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 3,
+            "titulo": "Carga Rápida Tipo C",
+            "precio": 4800,
+            "imagen": "imagenes/front-end.png",
+            "descripcion": "Cargador 3.1 Carga Rápida Tipo C",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 4,
+            "titulo": "Carga Turbo",
+            "precio": 8500,
+            "imagen": "imagenes/hero.jpg",
+            "descripcion": "Cargador Carga Turbo",
+            "actualizacion": "06/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 5,
+            "titulo": "Común Tipo C",
+            "precio": 4300,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador Tipo C",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 6,
+            "titulo": "Turbo 50W",
+            "precio": 9000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador Motorola Turbo 50W",
+            "actualizacion": "13/02",
+            "stock": false,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 7,
+            "titulo": "V8 Común 2.4",
+            "precio": 2500,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador de celular común",
+            "actualizacion": "06/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 8,
+            "titulo": "Universal Batería",
+            "precio": 3000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador de batería universal",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 9,
+            "titulo": "Cabezal Común",
+            "precio": 2000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador Cabezal Carga Normal",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 10,
+            "titulo": "Auto Carga Rápida",
+            "precio": 5000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador de auto cabezal 4.2",
+            "actualizacion": "13/02",
+            "stock": false,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 11,
+            "titulo": "Auto Carga 20W",
+            "precio": 5200,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador de auto super turbo",
+            "actualizacion": "06/04",
+            "stock": false,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 12,
+            "titulo": "Auto Común",
+            "precio": 3500,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador de auto común",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 13,
+            "titulo": "Cabezal Auto",
+            "precio": 3000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador 3.1 Cabezal",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 14,
+            "titulo": "Cargador Cabezal",
+            "precio": 3000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador 3.1 Cabezal con cable",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 15,
+            "titulo": "Auto Lightning",
+            "precio": 3000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador de auto de iPhone",
+            "actualizacion": "11/12",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 16,
+            "titulo": "P.B Demaco 20000mAh",
+            "precio": 9200,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "20000mAh + 3 Salida USB + Linterna",
+            "actualizacion": "13/02",
+            "stock": false,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 17,
+            "titulo": "Powerbank Portátil",
+            "precio": 10000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador portátil powerbank",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 18,
+            "titulo": "Notebook con Voltajes",
+            "precio": 12000,
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cargador de notebook con varios voltajes y fichas",
+            "actualizacion": "07/07",
+            "stock": true,
+            "categoria": "cargadores"
+        },
+        {
+            "id": 19,
+            "titulo": "PENDRIVE 4GB",
+            "precio": "$6,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "PENDRIVE DE 4GB KINGSTON",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "almacenamiento"
+        },
+        {
+            "id": 20,
+            "titulo": "PENDRIVE 8GB",
+            "precio": "$7,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "PENDRIVE DE 8GB KINGSTON",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "almacenamiento"
+        },
+        {
+            "id": 21,
+            "titulo": "PENDRIVE 16GB",
+            "precio": "$7,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "PENDRIVE DE 16GB",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "almacenamiento"
+        },
+        {
+            "id": 22,
+            "titulo": "PENDRIVE 32GB",
+            "precio": "$8,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "PENDRIVE DE 32GB",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "almacenamiento"
+        },
+        {
+            "id": 23,
+            "titulo": "PENDRIVE 64GB",
+            "precio": "$10,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "PENDRIVE DE 64GB",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "almacenamiento"
+        },
+        {
+            "id": 24,
+            "titulo": "MEMORIA 32GB",
+            "precio": "$9,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "MEMORIA SD DE 32GB",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "almacenamiento"
+        },
+        {
+            "id": 25,
+            "titulo": "MEMORIA 64GB",
+            "precio": "$12,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "MEMORIA SD DE 64GB",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "almacenamiento"
+        },
+        {
+            "id": 26,
+            "titulo": "LECTOR DE TARJETAS",
+            "precio": "$3,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Lector de tarjetas SD y microSD",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "almacenamiento"
+        },
+        {
+            "id": 27,
+            "titulo": "PARLANTE 303",
+            "precio": "$7,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "BLUETOOTH, RADIO, SD Y PENDRIVE",
+            "actualizacion": "2/7/24",
+            "stock": true,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 28,
+            "titulo": "PARLANTE JBL",
+            "precio": "$9,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "BLUETOOTH, RADIO, SD Y PENDRIVE",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 29,
+            "titulo": "PARLANTE 1732",
+            "precio": "$8,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "BLUETOOTH, RADIO, SD Y PENDRIVE",
+            "actualizacion": "2/7/24",
+            "stock": true,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 30,
+            "titulo": "PARLANTE 3PGS",
+            "precio": "$8,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "RADIO, BT Y ENTRADA MP3",
+            "actualizacion": "2/7/24",
+            "stock": true,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 31,
+            "titulo": "PARLANTE ORIX CANCUN",
+            "precio": "$45,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "8 PLG - RADIO, BT Y MICROFONO",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 32,
+            "titulo": "PARLANTE SYDNEY",
+            "precio": "$45,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "8 PLG - BLUETOOTH, RADIO Y MICROFONO",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 33,
+            "titulo": "PARLANTE DHAKA",
+            "precio": "$45,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "8 PLG - BLUETOOTH, RADIO Y MICROFONO",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 34,
+            "titulo": "PARLANTE CARRITO CAIRO",
+            "precio": "$45,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "8 PLG - BLUETOOTH, RADIO Y MICROFONO",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 35,
+            "titulo": "PARLANTE 6PLG",
+            "precio": "$40,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "RADIO, BT, MP3 Y ENTRADA PARA MICROFONO",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 36,
+            "titulo": "PARLANTE 8PLG",
+            "precio": "$45,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "BT, RADIO, MP3 Y ENTRADA PARA MICROFONO",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "parlantes"
+        },
+        {
+            "id": 37,
+            "titulo": "Auricular Común",
+            "precio": "$2,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auricular común varias marcas",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 38,
+            "titulo": "Auricular Time",
+            "precio": "$3,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auricular marca Time",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 39,
+            "titulo": "Auricular Tipo C",
+            "precio": "$6,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auricular con ficha Tipo C",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 40,
+            "titulo": "AKG Samsung",
+            "precio": "$3,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auricular AKG Samsung para celular",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 41,
+            "titulo": "Auricular Vincha",
+            "precio": "$6,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri Vincha",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 42,
+            "titulo": "Vincha Bluetooth",
+            "precio": "$9,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri Vincha Bluetooth",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 43,
+            "titulo": "PC Común",
+            "precio": "$5,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri común para PC",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 44,
+            "titulo": "Gamer Time",
+            "precio": "$8,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri gamer marca Time",
+            "actualizacion": "13/2/24",
+            "stock": false,
+            "categoria": "auricular"
+        },
+        {
+            "id": 45,
+            "titulo": "Gamer RGB",
+            "precio": "$10,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri gamer RGB 3D",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "auricular"
+        },
+        {
+            "id": 46,
+            "titulo": "Noga Gamer",
+            "precio": "$12,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri Noga gamer PC y PS4",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "auricular"
+        },
+        {
+            "id": 47,
+            "titulo": "Vincha Gato BT",
+            "precio": "$8,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri Bluetooth Vincha Gato",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 48,
+            "titulo": "PC/PS4 Time",
+            "precio": "$6,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auricular para PS4 marca Time",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 49,
+            "titulo": "Yaji Bluetooth",
+            "precio": "$5,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri BT tipo deportivo",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 50,
+            "titulo": "Sport Bluetooth",
+            "precio": "$7,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri Bluetooth deportivo",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 51,
+            "titulo": "Auri BT AirPods PRO",
+            "precio": "$9,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auricular Bluetooth Apple AirPods PRO",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "auricular"
+        },
+        {
+            "id": 52,
+            "titulo": "Auri BT Xiaomi",
+            "precio": "$17,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auricular Redmi Xiaomi",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "auricular"
+        },
+        {
+            "id": 53,
+            "titulo": "F10 Plus",
+            "precio": "$10,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auricular F10 Fanpro",
+            "actualizacion": "24/6/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 54,
+            "titulo": "F9 Bluetooth",
+            "precio": "$9,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Con Bluetooth, duración cada uno de 4hs",
+            "actualizacion": "24/6/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 55,
+            "titulo": "F9 Plus BT",
+            "precio": "$8,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Auri BT duración 4hs cada uno",
+            "actualizacion": "24/6/24",
+            "stock": true,
+            "categoria": "auricular"
+        },
+        {
+            "id": 56,
+            "titulo": "Micro USB V8 Común",
+            "precio": "$2,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable V8 ficha común normal",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 57,
+            "titulo": "Tipo C Común",
+            "precio": "$2,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable Tipo C ficha ancha",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 58,
+            "titulo": "Cable V3 MiniUSB",
+            "precio": "$2,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable V3 Mini USB",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 59,
+            "titulo": "Con Filtro PS3",
+            "precio": "$2,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable Mini USB PS3",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 60,
+            "titulo": "Con Filtro PS4",
+            "precio": "$2,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable para joystick PS4",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 61,
+            "titulo": "Micro USB V8 Carga Rápida",
+            "precio": "$2,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable USB V8 ficha común",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 62,
+            "titulo": "Tipo C 6A Rapid",
+            "precio": "$3,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable Tipo C ficha ancha carga rápida",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 63,
+            "titulo": "Lightning iPhone",
+            "precio": "$3,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable con ficha de iPhone",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 64,
+            "titulo": "Auxiliar",
+            "precio": "$850",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable auxiliar para teléfono celular",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 65,
+            "titulo": "HDMI 1.5mts",
+            "precio": "$3,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable HDMI transmite video y audio",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 66,
+            "titulo": "HDMI 3mts",
+            "precio": "$4,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable HDMI transmite video y audio",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "cables"
+        },
+        {
+            "id": 67,
+            "titulo": "HDMI 5mts",
+            "precio": "$5,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable HDMI transmite video y audio",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "cables"
+        },
+        {
+            "id": 68,
+            "titulo": "Impresora 1mts",
+            "precio": "$1,700",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable de la impresora a la PC",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 69,
+            "titulo": "RCA a Miniplug",
+            "precio": "$2,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable para conectar el celular al equipo de música",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 70,
+            "titulo": "RCA a RCA 1mts",
+            "precio": "$1,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable para conectar la TV al DVD",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 71,
+            "titulo": "Tipo 8",
+            "precio": "$2,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cables 220V para consolas",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "cables"
+        },
+        {
+            "id": 72,
+            "titulo": "Tipo PC",
+            "precio": "$2,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cables 220V para computadoras",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 73,
+            "titulo": "Red 1.5mts",
+            "precio": "$1,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable de red para conectar la PC al módem",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 74,
+            "titulo": "Red 10mts",
+            "precio": "$2,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable de red para conectar la PC al módem",
+            "actualizacion": "6/4/24",
+            "stock": false,
+            "categoria": "cables"
+        },
+        {
+            "id": 75,
+            "titulo": "VGA 1.5mts",
+            "precio": "$2,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable VGA para conectar la PC al monitor",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 76,
+            "titulo": "HDTV Cel a TV",
+            "precio": "$3,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable para conectar el celular a la TV",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "cables"
+        },
+        {
+            "id": 77,
+            "titulo": "Mouse Común",
+            "precio": "$4,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Mouse común para PC",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 78,
+            "titulo": "Mouse Inalámbrico",
+            "precio": "$6,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Mouse inalámbrico para PC",
+            "actualizacion": "7/7/24",
+            "stock": false,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 79,
+            "titulo": "Mouse Notebook",
+            "precio": "$5,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Mouse de notebook o netbook",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 80,
+            "titulo": "Mouse Gamer",
+            "precio": "$6,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Mouse gamer con diseño",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 81,
+            "titulo": "Mouse Detallado",
+            "precio": "$6,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Mouse con botones DPI",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 82,
+            "titulo": "Mouse Gamer Iluminado",
+            "precio": "$6,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Mouse gamer iluminado",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 83,
+            "titulo": "Pad Gamer",
+            "precio": "$4,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Mouse pad gamer",
+            "actualizacion": "6/4/24",
+            "stock": false,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 84,
+            "titulo": "Teclado de PC",
+            "precio": "$6,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Teclado común para computadora",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 85,
+            "titulo": "Teclado Gamer RGB",
+            "precio": "$9,700",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Teclado RGB para computadora",
+            "actualizacion": "6/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 86,
+            "titulo": "Teclado y Mouse RGB",
+            "precio": "$12,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Teclado y mouse RGB alámbricos",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 87,
+            "titulo": "Parlante de PC",
+            "precio": "$6,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Parlantes marca Noga para la computadora",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 88,
+            "titulo": "Hub 4 Puertos",
+            "precio": "$5,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Hub adaptador para conectar más pendrives",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 89,
+            "titulo": "Linterna PC",
+            "precio": "$3,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Linterna con puerto USB para la notebook",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "computacion-gaming"
+        },
+        {
+            "id": 90,
+            "titulo": "Joystick PC Xbox",
+            "precio": "$22,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Joystick de Xbox para Windows USB",
+            "actualizacion": "14/7/24",
+            "stock": true,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 91,
+            "titulo": "Joystick PC",
+            "precio": "$11,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Joystick de computadora",
+            "actualizacion": "24/7/24",
+            "stock": false,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 92,
+            "titulo": "Joystick PS2",
+            "precio": "$13,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Joystick de PS2 alámbrico",
+            "actualizacion": "24/7/24",
+            "stock": true,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 93,
+            "titulo": "Joystick PS3",
+            "precio": "$16,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Joystick de PS3",
+            "actualizacion": "24/7/24",
+            "stock": true,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 94,
+            "titulo": "Joystick PS4",
+            "precio": "$37,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Joystick PS4",
+            "actualizacion": "24/7/24",
+            "stock": false,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 95,
+            "titulo": "Joystick PS4 Alternativo",
+            "precio": "$30,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Joystick PS4 alternativo",
+            "actualizacion": "24/7/24",
+            "stock": false,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 96,
+            "titulo": "Joystick Bluetooth",
+            "precio": "$16,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Joystick para teléfono celular y tablet",
+            "actualizacion": "24/7/24",
+            "stock": true,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 97,
+            "titulo": "Cable AV PS2 y PS3",
+            "precio": "$2,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cable de TV para PS2 y PS3",
+            "actualizacion": "7/7/24",
+            "stock": true,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 98,
+            "titulo": "Consola Family",
+            "precio": "$22,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Consola Family con más de 400 juegos",
+            "actualizacion": "14/7/24",
+            "stock": false,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 99,
+            "titulo": "Consola Sup Común",
+            "precio": "$14,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Sin joystick, 400 juegos a batería",
+            "actualizacion": "14/7/24",
+            "stock": true,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 100,
+            "titulo": "Consola 400 Games",
+            "precio": "$16,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Consola con joystick, 400 juegos",
+            "actualizacion": "14/7/24",
+            "stock": false,
+            "categoria": "consolas-gaming"
+        },
+        {
+            "id": 101,
+            "titulo": "Holder Auto Vidrio",
+            "precio": "$3,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Soporte para teléfono celular",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "soportes-holder"
+        },
+        {
+            "id": 102,
+            "titulo": "Holder Auto Pinza",
+            "precio": "$2,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Soporte para teléfono celular",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "soportes-holder"
+        },
+        {
+            "id": 103,
+            "titulo": "Holder Auto Rejilla",
+            "precio": "$1,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Soporte para teléfono celular",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "soportes-holder"
+        },
+        {
+            "id": 104,
+            "titulo": "Holder Auto Espejo",
+            "precio": "$6,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Soporte para teléfono celular",
+            "actualizacion": "24/7",
+            "stock": false,
+            "categoria": "soportes-holder"
+        },
+        {
+            "id": 105,
+            "titulo": "Holder Manito",
+            "precio": "$1,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Soporte para teléfono celular",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "soportes-holder"
+        },
+        {
+            "id": 106,
+            "titulo": "Ring Celular",
+            "precio": "$1,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "",
+            "actualizacion": "6/4",
+            "stock": true,
+            "categoria": "soportes-holder"
+        },
+        {
+            "id": 107,
+            "titulo": "Cable OTG",
+            "precio": "$1,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Adaptador OTG para usar pendrive en celular",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "soportes-holder"
+        },
+        {
+            "id": 108,
+            "titulo": "Micrófono con Cable",
+            "precio": "$5,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Micrófono común alámbrico",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 109,
+            "titulo": "Micrófono Wireless",
+            "precio": "$7,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Micrófono de metal",
+            "actualizacion": "24/7",
+            "stock": false,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 110,
+            "titulo": "Micrófono",
+            "precio": "$4,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Micrófono común alámbrico",
+            "actualizacion": "24/7",
+            "stock": false,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 111,
+            "titulo": "Stereo Alientech",
+            "precio": "$20,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Frente fijo BT - USB - AUX - Control remoto",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 112,
+            "titulo": "Stereo Suono",
+            "precio": "$20,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Frente fijo BT - AUX - USB - Control remoto",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 113,
+            "titulo": "Karaoke Bluetooth",
+            "precio": "$9,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Micrófono para karaoke con Bluetooth",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 114,
+            "titulo": "Inalámbrico",
+            "precio": "$16,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Micrófono inalámbrico con antena",
+            "actualizacion": "24/7",
+            "stock": false,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 115,
+            "titulo": "Radio AM/FM (Chica)",
+            "precio": "$9,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Radio chica con pilas AM/FM",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 116,
+            "titulo": "Radio AM/FM (Grande)",
+            "precio": "$10,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Radio tamaño grande AM y FM",
+            "actualizacion": "24/7",
+            "stock": false,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 117,
+            "titulo": "Radio 4 Bandas",
+            "precio": "$20,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Radio, linterna, 4 bandas recargable",
+            "actualizacion": "24/7",
+            "stock": false,
+            "categoria": "radios-stereo-microfonos"
+        },
+        {
+            "id": 118,
+            "titulo": "Teclado para TV",
+            "precio": "$15,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Teclado para PC - TV - Android TV Box",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "smart-TV"
+        },
+        {
+            "id": 119,
+            "titulo": "TV Box 4K",
+            "precio": "$75,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Convertidor Smart TV con Android",
+            "actualizacion": "24/7",
+            "stock": false,
+            "categoria": "smart-TV"
+        },
+        {
+            "id": 120,
+            "titulo": "Consola Stick Joystick",
+            "precio": "$44,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Video juego 64GB incluye 2 joystick",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "smart-TV"
+        },
+        {
+            "id": 121,
+            "titulo": "Receptor Car Bluetooth",
+            "precio": "$5,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Receptor para stereo que agrega Bluetooth",
+            "actualizacion": "24/7",
+            "stock": true,
+            "categoria": "otros-bluetooth"
+        },
+        {
+            "id": 122,
+            "titulo": "Reloj Smart",
+            "precio": "$7,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Reloj smart con sensor",
+            "actualizacion": "6/4",
+            "stock": false,
+            "categoria": "otros-bluetooth"
+        },
+        {
+            "id": 123,
+            "titulo": "Reloj Smartband",
+            "precio": "$7,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Reloj smartband con Bluetooth",
+            "actualizacion": "6/7",
+            "stock": true,
+            "categoria": "otros-bluetooth"
+        },
+        {
+            "id": 124,
+            "titulo": "Reloj Smart",
+            "precio": "$7,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Reloj smart varios colores",
+            "actualizacion": "6/4",
+            "stock": false,
+            "categoria": "otros-bluetooth"
+        },
+        {
+            "id": 125,
+            "titulo": "Transmisor Bluetooth",
+            "precio": "$5,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "",
+            "actualizacion": "16/2",
+            "stock": false,
+            "categoria": "otros-bluetooth"
+        },
+        {
+            "id": 126,
+            "titulo": "Pizarra Mágica",
+            "precio": "$5,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Pizarra mágica, varios colores con lápiz incluido",
+            "actualizacion": "6/7",
+            "stock": true,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 127,
+            "titulo": "Llaveros Varios",
+            "precio": "$2,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Llaveros de personajes plástico y goma",
+            "actualizacion": "6/4",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 128,
+            "titulo": "Linterna Picana",
+            "precio": "$7,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Linterna con picana",
+            "actualizacion": "25/2",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 129,
+            "titulo": "Destornilladores Multi",
+            "precio": "$3,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Juego de destornilladores varias puntas",
+            "actualizacion": "6/4",
+            "stock": true,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 130,
+            "titulo": "Lápiz Detector Billetes",
+            "precio": "$1,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Lápiz detector de billetes falsos",
+            "actualizacion": "6/4",
+            "stock": true,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 131,
+            "titulo": "Cartas Uno",
+            "precio": "$3,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Juego de cartas Uno",
+            "actualizacion": "14/4",
+            "stock": true,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 132,
+            "titulo": "Guantes de Trabajo",
+            "precio": "$2,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Guantes de trabajo",
+            "actualizacion": "6/4",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 133,
+            "titulo": "Pinza para Batería",
+            "precio": "$7,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cables para auto con pinza",
+            "actualizacion": "7/6",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 134,
+            "titulo": "Cortapelo Perro",
+            "precio": "$13,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cortapelo de perro con accesorios",
+            "actualizacion": "17/12",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 135,
+            "titulo": "Cinta Métrica 3mts",
+            "precio": "$2,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cinta métrica 3mts",
+            "actualizacion": "6/4",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 136,
+            "titulo": "Tester Digital",
+            "precio": "$5,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Tester digital",
+            "actualizacion": "25/2",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 137,
+            "titulo": "Raqueta Mosquitos",
+            "precio": "$7,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Raqueta mata mosquitos recargable",
+            "actualizacion": "25/2",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 138,
+            "titulo": "Game Varios y Tetris",
+            "precio": "$3,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Consola Tetris con más juegos",
+            "actualizacion": "6/4",
+            "stock": true,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 139,
+            "titulo": "Vaso Licuadora",
+            "precio": "$10,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Vaso licuadora",
+            "actualizacion": "25/2",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 140,
+            "titulo": "Gorro Invierno",
+            "precio": "$4,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Gorro de invierno con polar",
+            "actualizacion": "6/4",
+            "stock": false,
+            "categoria": "ferreteria-jugueteria"
+        },
+        {
+            "id": 141,
+            "titulo": "Tira LED 220V",
+            "precio": "$10,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Tira LED RGB varios colores 5mts 220V",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 142,
+            "titulo": "Tira LED TV",
+            "precio": "$8,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Tira LED 3mts para TV",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 143,
+            "titulo": "Tira Auto",
+            "precio": "$9,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Tira LED para auto 4 x 12LED",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 144,
+            "titulo": "Gestos para Auto",
+            "precio": "$23,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Gestos LED varios para auto",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 145,
+            "titulo": "Proton LED 18",
+            "precio": "$16,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Proton 18 LED RGB para fiestas",
+            "actualizacion": "14/7",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 146,
+            "titulo": "Puntero Laser Recargable",
+            "precio": "$10,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Puntero laser recargable varias puntas",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 147,
+            "titulo": "Puntero Laser",
+            "precio": "$8,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Puntero laser con alcance de 300mts",
+            "actualizacion": "14/7",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 148,
+            "titulo": "Multipunto Laser",
+            "precio": "$16,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Laser multipunto de colores",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 149,
+            "titulo": "Focos Velador Giratorio",
+            "precio": "$3,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Foco velador nocturno 220V giratorio",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 150,
+            "titulo": "Focos RGB Giratorio",
+            "precio": "$3,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Foco RGB 220V giratorio",
+            "actualizacion": "14/7",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 151,
+            "titulo": "Tira LED 24V",
+            "precio": "$16,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Colores disponibles: Azul y rojo de 24V",
+            "actualizacion": "03/06",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 152,
+            "titulo": "Tira LED 2835",
+            "precio": "$10,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Rollo 5mts tira 2835 12V",
+            "actualizacion": "03/06",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 153,
+            "titulo": "Tira LED 12V",
+            "precio": "$14,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Rollo 5mts tira 12V interior R,A y BL",
+            "actualizacion": "03/06",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 154,
+            "titulo": "Tira LED Ultravioleta",
+            "precio": "$40,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Rollo 5mts 24V - Por metro $4000",
+            "actualizacion": "03/06",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 155,
+            "titulo": "Metro Tira 24V",
+            "precio": "$4,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Tira LED incluye adaptador",
+            "actualizacion": "03/06",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 156,
+            "titulo": "Mod Oferta",
+            "precio": "$620",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Módulo color azul",
+            "actualizacion": "18/07",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 157,
+            "titulo": "Mod Varios Color",
+            "precio": "$620",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Módulo color rojo",
+            "actualizacion": "18/07",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 158,
+            "titulo": "Mod con Lupa",
+            "precio": "$1,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Módulo 3 LED varios colores",
+            "actualizacion": "18/07",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 159,
+            "titulo": "Mod Ultra Vi",
+            "precio": "$1,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Módulos de color ultra violeta",
+            "actualizacion": "18/07",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 160,
+            "titulo": "Super Modulo",
+            "precio": "$2,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "8x3cm - 24V - Blanco o rojo",
+            "actualizacion": "03/06",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 161,
+            "titulo": "Mod LED SMD",
+            "precio": "$2,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Azul, Rojo y Blanco, 12 y 24V - 10 x 3cm",
+            "actualizacion": "03/06",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 162,
+            "titulo": "Modulos 12V",
+            "precio": "$750",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Colores: Azul, Blanco y Rosa",
+            "actualizacion": "18/07",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 163,
+            "titulo": "Modulo 1 LED",
+            "precio": "$750",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Módulo lupa 1 LED 12V Azul, Rojo y Blanco",
+            "actualizacion": "18/07",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 164,
+            "titulo": "Tira LED COB Metro",
+            "precio": "$4,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Tira LED COB finita 24V interior",
+            "actualizacion": "03/06",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 165,
+            "titulo": "Tira LED Neon Metro",
+            "precio": "$4,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Metro de tira LED Neon 12V interior",
+            "actualizacion": "03/06",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 166,
+            "titulo": "Adaptador Tira LED",
+            "precio": "$1,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Adaptador para tener cables positivo y negativo",
+            "actualizacion": "03/06",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 167,
+            "titulo": "T10 Cerámicos",
+            "precio": "$1,400",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Luz posición T10 12V",
+            "actualizacion": "24/05",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 168,
+            "titulo": "T10 Canbus",
+            "precio": "$5,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "El par 12V y 24V 6LED",
+            "actualizacion": "24/05",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 169,
+            "titulo": "T10 6LED X2",
+            "precio": "$4,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "El par 24V posición T10 6 LED",
+            "actualizacion": "03/06",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 170,
+            "titulo": "T10 8 LED x 2",
+            "precio": "$4,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "El par luz posición 24V 8 LED Canbus",
+            "actualizacion": "24/05",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 171,
+            "titulo": "T10 Silica",
+            "precio": "$3,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Luz posición 12V el par",
+            "actualizacion": "24/05",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 172,
+            "titulo": "T10 12V",
+            "precio": "$900",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Posición cristal 12V - Azul y Rojo",
+            "actualizacion": "03/04",
+            "stock": true,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 173,
+            "titulo": "T10 LED RGB",
+            "precio": "$7,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "LED de posición con control RGB",
+            "actualizacion": "16/02",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 174,
+            "titulo": "Portalámparas T10",
+            "precio": "$1,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Portalámparas lámparas T10",
+            "actualizacion": "16/2",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 175,
+            "titulo": "Kit Ojo Aguila",
+            "precio": "$5,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Ojo de águila kit 12 o 24V",
+            "actualizacion": "3/4",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 176,
+            "titulo": "Ojo de Ángel",
+            "precio": "$6,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "LED para el parabrisas 12 o 24V",
+            "actualizacion": "3/4",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 177,
+            "titulo": "Cree LED C6",
+            "precio": "$16,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "H11 10 watts de potencia",
+            "actualizacion": "16/2",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 178,
+            "titulo": "Cree LED S6",
+            "precio": "$18,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "9006 15 watts de potencia",
+            "actualizacion": "16/02",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 179,
+            "titulo": "Cree LED P8",
+            "precio": "$29,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "H1 disipador macizo 240 watts",
+            "actualizacion": "16/02",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 180,
+            "titulo": "Cree LED V6S",
+            "precio": "",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "H7 50mil lúmenes por lámpara",
+            "actualizacion": "26/08",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 181,
+            "titulo": "Kit Giro Fijo",
+            "precio": "$6,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Giro fijo resistencia de 7 watts",
+            "actualizacion": "16/05",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 182,
+            "titulo": "DRL Secuencial",
+            "precio": "$18,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "LED blanco secuencial, LED giro ámbar",
+            "actualizacion": "16/5",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 183,
+            "titulo": "Faro Policía",
+            "precio": "",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Kit 4 faros con control remoto",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 184,
+            "titulo": "Módulo Intermitente",
+            "precio": "",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "8cm módulo tipo policía 12 o 24V",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 185,
+            "titulo": "Reflector LED 30W",
+            "precio": "$6,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Reflector LED de 30 watts",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 186,
+            "titulo": "Reflector 50W",
+            "precio": "$7,900",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Reflector LED 50 watts",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 187,
+            "titulo": "Reflector 100W",
+            "precio": "$15,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Reflector LED 100 watts",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 188,
+            "titulo": "Módulo Intermitente",
+            "precio": "$5,900",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Módulo 4 LED 12 y 24V",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 189,
+            "titulo": "Faro 9 LED",
+            "precio": "$5,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Faro redondo 27W 9LED 11CM",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 190,
+            "titulo": "Faro Lineal",
+            "precio": "$8,200",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Faro Jeep 7 pulgadas 12 y 24V",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 191,
+            "titulo": "Faro Moto",
+            "precio": "$9,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Faro humo para moto",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 192,
+            "titulo": "Faro Moto",
+            "precio": "$9,800",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Faro para moto U7",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 193,
+            "titulo": "Faros de Moto",
+            "precio": "$4,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Par faro 4 LED plateados",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 194,
+            "titulo": "Faro de Moto",
+            "precio": "$4,600",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Juego faro de moto 4 LED 12 watts 6cm",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 195,
+            "titulo": "Faro 7 Pulgadas",
+            "precio": "$33,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Faro redondo Jeep 7 pulgadas",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 196,
+            "titulo": "LED Posición Stop",
+            "precio": "$1,100",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "LED 2 polos posición stop blanco",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 197,
+            "titulo": "T20 2 Polos",
+            "precio": "$2,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "T20 de 2 polos",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 198,
+            "titulo": "LED Marcha Atrás",
+            "precio": "$1,500",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "LED marcha atrás 1 polo blanco",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 199,
+            "titulo": "LED Stop",
+            "precio": "$700",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "LED posición stop blanco 2 polos",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 200,
+            "titulo": "1 Polo",
+            "precio": "$1,400",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "1 Polo siliconado 24V",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 201,
+            "titulo": "LED Tablero",
+            "precio": "$450",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Lámpara LED T5 tablero 12 y 24V",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 202,
+            "titulo": "T5 Tablero",
+            "precio": "$750",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "T5 tablero con portalámpara 12V",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 203,
+            "titulo": "Cree LED Moto",
+            "precio": "$8,000",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Cree LED moto 30 watts alta baja y flash",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 204,
+            "titulo": "Lámpara de Moto",
+            "precio": "$4,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Lámpara LED de moto H4 alta baja 7W 3 patitas",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 205,
+            "titulo": "Giro Moto Par",
+            "precio": "$9,300",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Giro moto 12V 115 secuencial ámbar",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 206,
+            "titulo": "Giro Moto Par",
+            "precio": "$7,100",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Giro moto 12V 315 secuencial ámbar",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 207,
+            "titulo": "Giro Moto Par",
+            "precio": "$6,700",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Giro moto 12V color ámbar",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 208,
+            "titulo": "Giro Moto Par",
+            "precio": "$4,900",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Giro moto 12V ámbar",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 209,
+            "titulo": "Giro Moto Par",
+            "precio": "$3,900",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Giro moto 12V 025 ámbar",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        },
+        {
+            "id": 210,
+            "titulo": "Giro Moto Par",
+            "precio": "$3,900",
+            "imagen":"imagenes/full-stack.jpg",
+            "descripcion": "Giro moto 12V 015 ámbar",
+            "actualizacion": "26/8",
+            "stock": false,
+            "categoria": "led-electronics-led"
+        }
+    ]
+}

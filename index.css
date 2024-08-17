@@ -1,0 +1,224 @@
+:root {
+    --primary-bg-color: rgb(64,64,64);
+    --secondary-bg-color: rgb(49,49,49);
+    --primary-text-color: rgb(254,127,20);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(240,240,240);
+}
+
+button {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0, 0.3);
+    box-shadow: 2px 2px 10px rgba(0,0,0, 0.5);
+    color: white;
+    background-color: var(--primary-text-color);
+}
+
+button:hover {
+    background-color: var(--primary-text-color);
+    transition: .3s;
+}
+
+main h2{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 24px;
+    color: var(--primary-text-color);
+}
+
+.color-primary {
+    color: var(--primary-text-color);
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+header {
+    background-color: var(--primary-bg-color);
+}
+
+header .logo {
+    padding: 25px 30px;
+    font-weight: bold;
+    color: var(--primary-text-color);
+    font-size: 1.6em;
+}
+
+header .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header nav {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 25px;
+    gap: 10px;
+}
+
+header a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+header a:hover {
+    color: var(--primary-text-color);
+}
+
+select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+    outline: none;
+    margin-bottom: 20px;
+}
+
+nav select:hover {
+    border-color: #007bff;
+}
+
+nav select:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+nav select option {
+    padding: 8px;
+    background-color: white;
+    color: #333;
+}
+
+/* INICIO CARDS ESTILOS */
+.productos {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Espacio entre las tarjetas */
+    justify-content: center; /* Centra las tarjetas horizontalmente */
+    padding: 0px 40px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--secondary-bg-color); /* Fondo blanco o el color que prefieras */
+    border-radius: 10px;
+    color: white;
+    overflow: hidden;
+    width: 300px; /* Ajusta el ancho según sea necesario */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 0px 31px;
+}
+
+.card-image {
+    height: 200px; /* Ajusta la altura según sea necesario */
+    background-size: cover;
+    background-position: center;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    flex-grow: 1; /* Permite que el contenido crezca para llenar el espacio */
+}
+
+.card-title {
+    font-size: 1.25em;
+    margin-bottom: 10px;
+}
+
+.card-description {
+    font-size: 1em;
+    margin: 10px 0;
+    flex-grow: 1; /* Permite que la descripción se ajuste */
+}
+
+.card-price {
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-button {
+    text-decoration: none;
+    color: rgb(37, 211, 102);
+    font-size: 40px;
+}
+
+.card-button:hover {
+    color: rgb(0, 255, 94);
+}
+
+/* FIN CARDS ESTILOS */
+@media(min-width: 720px){
+    header {
+        position: fixed;
+        width: 100%;
+        margin-top: -110px;
+        /*Siempre que usamos fixed hay que darle el ancho del 100% */
+        }
+
+    header .container{
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    header nav {
+        flex-direction: row;
+        padding-bottom: 0;
+        padding-right: 20px;
+    }
+
+    main h2 {
+        margin-top: 110px;
+        margin-bottom: 30px;
+    }
+    select {
+        margin: 0;
+        margin-right: 20px;
+    }}
+
+@media (max-width: 1024px) {
+    .card {
+        width: calc(50% - 16px); /* Ajusta el ancho para 2 tarjetas por fila */
+    }
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: calc(100% - 16px); /* Ajusta el ancho para 1 tarjeta por fila */
+    }
+}
