@@ -187,6 +187,52 @@ nav select option {
 }
 
 /* FIN CARDS ESTILOS */
+
+
+/* INCIO Footer */
+.footer-container{
+    background-color: var(--primary-bg-color);
+    margin-top: 20px;
+    text-align: center;
+    color: var(--primary-text-color);   
+}
+
+.footer-container h2 {
+    padding-top: 20px;
+}
+
+
+.footer-container ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 20px 0px
+}
+
+.footer-container li {
+    list-style: none;
+    font-size: 18px;
+}
+
+.footer-container li a{
+    text-decoration: none;
+}
+
+.footer-container .instagram {
+    color: #ee5dad; /* Color de Instagram */
+  }
+  
+  .footer-container .fb {
+    color: #3b5998; /* Color azul de Facebook */
+  }
+  
+  .footer-container .wsp {
+    color: #25D366; /* Color verde de WhatsApp */
+  }
+  
+/* FIN Footer */
+
 @media(min-width: 720px){
     header {
         position: fixed;

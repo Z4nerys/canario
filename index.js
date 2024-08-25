@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', async () => {
     const categoriaSelect = document.getElementById("categoria-select");
-    const contenedorProductos = document.getElementById("nuestros-productos");
 
     const products = await cargarProductos();
     if (products) {
@@ -25,6 +24,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             const categoriaSeleccionada = e.target.value;
             mostrarProductos(categoriaSeleccionada, productos, telefono);
         });
+    }else{
+        const contenedorProductos = document.getElementById("nuestros-productos");
+        contenedorProductos.innerHTML = `<div style="height: 50vh;">No hay productos!</div>`;
     }
 });
 
@@ -34,7 +36,6 @@ async function cargarProductos() {
         const products = await response.json();
         return products;
     } catch (error) {
-        console.error('Error al cargar los productos:', error);
         return null;
     }
 }
