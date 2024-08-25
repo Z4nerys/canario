@@ -194,7 +194,7 @@ nav select option {
     background-color: var(--primary-bg-color);
     margin-top: 20px;
     text-align: center;
-    color: var(--primary-text-color);   
+    color: rgb(255,255,255)  
 }
 
 .footer-container h2 {
