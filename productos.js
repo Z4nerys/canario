@@ -65,7 +65,7 @@ const mostrarProductos = (categoria, productos, telefono) => {
             <div class="card-content">
                 <h3 class="card-title">${producto.titulo}</h3>
                 <p class="card-description">${producto.descripcion}</p>
-                <p class="card-price">$${producto.precio}</p>
+                <p class="card-price">${producto.precio}</p>
                 <div class="card-footer">
                     <p class="card-stock">${producto.stock ? 'En stock' : 'Agotado'}</p>
                     <a href="https://wa.me/${telefono}?text=Hola!%20Estoy%20interesado%20en%20el%20producto:%20${encodeURIComponent(producto.titulo)}" class="card-button" target="_blank">
