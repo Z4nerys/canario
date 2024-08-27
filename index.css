@@ -114,64 +114,6 @@ nav select option {
     color: #333;
 }
 
-/* CARDS INICO HTML */
-
-#categoria-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 20px;
-}
-
-.cardIndex {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.cardIndex img {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-}
-
-.cardIndex h3 {
-    font-size: 1.2em;
-    margin: 15px;
-    color: #333;
-}
-
-.cardIndex p {
-    font-size: 0.9em;
-    margin: 0 15px 15px;
-    color: #666;
-}
-
-.cardIndex button {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 0 0 8px 8px;
-    padding: 10px;
-    width: 100%;
-    cursor: pointer;
-    font-size: 1em;
-    transition: background-color 0.3s ease;
-}
-
-.cardIndex button:hover {
-    background-color: #0056b3;
-}
-
-.cardIndex:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-/* CARDS FIN HTML */
-
 /* INICIO CARDS ESTILOS */
 .productos {
     margin-top: 20px;
@@ -290,7 +232,6 @@ nav select option {
   }
   
 /* FIN Footer */
-
 
 @media(min-width: 720px){
     header {
