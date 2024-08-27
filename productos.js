@@ -7,24 +7,36 @@ document.addEventListener('DOMContentLoaded', async () => {
         const categorias = products.categorias;
         const telefono = products.telefono;
 
+        const urlParams = new URLSearchParams(window.location.search);
+        // Es el id del producto que viene por la URL de categorías
+        const productoID = urlParams.get('id');
+
         // Rellenar el menú de categorías
         categoriaSelect.innerHTML = '';
         categorias.forEach(categoria => {
             const option = document.createElement('option');
             option.value = categoria.id;
-            option.textContent = categoria.nombre
+            option.textContent = categoria.nombre;
             categoriaSelect.appendChild(option);
         });
 
-        // Mostrar productos de la categoría "cargadores" por defecto
-        mostrarProductos(categorias[0].id, productos, telefono);
+        // Seleccionar la opción que corresponde al id de la URL, si existe
+        if (productoID) {
+            categoriaSelect.value = productoID;
+            mostrarProductos(productoID, productos, telefono);
+        } else {
+            // Selecciona la primera categoría si no hay id en la URL
+            categoriaSelect.value = categorias[0].id;
+            mostrarProductos(categorias[0].id, productos, telefono);
+        }
 
-        // Opcional: Añadir un evento para manejar cambios en la selección
+        // Actualizar productos al cambiar la categoría desde el select
         categoriaSelect.addEventListener('change', (e) => {
             const categoriaSeleccionada = e.target.value;
             mostrarProductos(categoriaSeleccionada, productos, telefono);
         });
-    }else{
+
+    } else {
         const contenedorProductos = document.getElementById("nuestros-productos");
         contenedorProductos.innerHTML = `<div style="height: 50vh;">No hay productos!</div>`;
     }

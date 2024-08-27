@@ -56,12 +56,6 @@
             "descripcion": "Herramientas de ferretería y juguetes electrónicos."
         },
         {
-            "id": "imagenes/full-stack.jpg",
-            "nombre": "Full Stack",
-            "imagen": "imagenes/full-stack.jpg",
-            "descripcion": "Cursos y recursos para desarrollo Full Stack."
-        },
-        {
             "id": "led-electronics-led",
             "nombre": "LED y Electrónica",
             "imagen": "imagenes/full-stack.jpg",
