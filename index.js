@@ -17,19 +17,21 @@ async function cargarProductos() {
 }
 
 function renderizarCategorias(categorias) {
-    const contenedor = document.getElementById('categoria-container');
-    
+    const contenedor = document.getElementById('categoria');
+
     categorias.forEach(categoria => {
         const card = document.createElement('div');
         card.classList.add('cardIndex');
 
         card.innerHTML = `
             <img src="${categoria.imagen}" alt="${categoria.nombre}">
-            <h3>${categoria.nombre}</h3>
-            <p>${categoria.descripcion}</p>
+            <div class="card-content">
+                <h3>${categoria.nombre}</h3>
+                <p>${categoria.descripcion}</p>
+            </div>
             <button value="${categoria.id}" class="btn-seleccionar">Ver Productos</button>
         `;
-        
+
         contenedor.appendChild(card);
     });
 

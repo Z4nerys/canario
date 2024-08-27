@@ -28,31 +28,31 @@
         {
             "id": "soportes-holder",
             "nombre": "Soportes y Holders",
-            "imagen": "imagenes/soportes-holder.jpg",
+            "imagen": "imagenes/python.png",
             "descripcion": "Soportes y holders para tus dispositivos electrónicos."
         },
         {
             "id": "radios-stereo-microfonos",
             "nombre": "Radios, Estéreos y Micrófonos",
-            "imagen": "imagenes/radios-stereo-microfonos.jpg",
+            "imagen": "imagenes/hero.jpg",
             "descripcion": "Amplia gama de radios, estéreos y micrófonos."
         },
         {
             "id": "smart-TV",
             "nombre": "Smart TV",
-            "imagen": "imagenes/smart-TV.jpg",
+            "imagen": "imagenes/full-stack.jpg",
             "descripcion": "Smart TVs con la mejor tecnología de pantalla."
         },
         {
             "id": "otros-bluetooth",
             "nombre": "Otros Bluetooth",
-            "imagen": "imagenes/otros-bluetooth.jpg",
+            "imagen": "imagenes/front-end.png",
             "descripcion": "Dispositivos y accesorios Bluetooth variados."
         },
         {
             "id": "ferreteria-jugueteria",
             "nombre": "Ferretería y Juguetería",
-            "imagen": "imagenes/ferreteria-jugueteria.jpg",
+            "imagen": "imagenes/python.png",
             "descripcion": "Herramientas de ferretería y juguetes electrónicos."
         },
         {
