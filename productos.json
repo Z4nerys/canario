@@ -4,79 +4,79 @@
         {
             "id": "cargadores",
             "nombre": "Cargadores",
-            "imagen": "imagenes/front-end.png",
+            "imagen": "imagenes/cargadores/portada.png",
             "descripcion": "Variedad de cargadores para todos tus dispositivos electrónicos."
         },
         {
             "id": "auricular",
             "nombre": "Auriculares",
-            "imagen": "imagenes/full-stack.jpg",
+            "imagen": "imagenes/auricular/portada.png",
             "descripcion": "Auriculares de alta calidad para una experiencia auditiva superior."
         },
         {
             "id": "computacion-gaming",
             "nombre": "Computación y Gaming",
-            "imagen": "imagenes/hero.jpg",
+            "imagen": "imagenes/computacion-gaming/portada.png",
             "descripcion": "Productos de computación y gaming para todos los entusiastas."
         },
         {
             "id": "consolas-gaming",
             "nombre": "Consolas y Gaming",
-            "imagen": "imagenes/python.png",
+            "imagen": "imagenes/consolas-gaming/portada.png",
             "descripcion": "Consolas y accesorios para todos los gamers."
         },
         {
             "id": "soportes-holder",
             "nombre": "Soportes y Holders",
-            "imagen": "imagenes/python.png",
+            "imagen": "imagenes/soportes-holders/portada.png",
             "descripcion": "Soportes y holders para tus dispositivos electrónicos."
         },
         {
             "id": "radios-stereo-microfonos",
             "nombre": "Radios, Estéreos y Micrófonos",
-            "imagen": "imagenes/hero.jpg",
+            "imagen": "imagenes/radios-estereos-microfonos/portada.png",
             "descripcion": "Amplia gama de radios, estéreos y micrófonos."
         },
         {
             "id": "smart-TV",
             "nombre": "Smart TV",
-            "imagen": "imagenes/full-stack.jpg",
+            "imagen": "imagenes/smart-TV/portada.png",
             "descripcion": "Smart TVs con la mejor tecnología de pantalla."
         },
         {
             "id": "otros-bluetooth",
             "nombre": "Otros Bluetooth",
-            "imagen": "imagenes/front-end.png",
+            "imagen": "imagenes/otros-bluetooth/portada.png",
             "descripcion": "Dispositivos y accesorios Bluetooth variados."
         },
         {
             "id": "ferreteria-jugueteria",
             "nombre": "Ferretería y Juguetería",
-            "imagen": "imagenes/python.png",
+            "imagen": "imagenes/ferreteria-jugueteria/portada.png",
             "descripcion": "Herramientas de ferretería y juguetes electrónicos."
         },
         {
             "id": "led-electronics-led",
             "nombre": "LED y Electrónica",
-            "imagen": "imagenes/full-stack.jpg",
+            "imagen": "imagenes/led-electronica/portada.png",
             "descripcion": "Productos LED y electrónica avanzada."
         },
         {
             "id": "almacenamiento",
             "nombre": "Almacenamiento",
-            "imagen": "imagenes/front-end.png",
+            "imagen": "imagenes/almacenamiento/portada.png",
             "descripcion": "Dispositivos de almacenamiento para todos tus archivos."
         },
         {
             "id": "parlantes",
             "nombre": "Parlantes",
-            "imagen": "imagenes/front-end.png",
+            "imagen": "imagenes/parlantes/portada.png",
             "descripcion": "Parlantes de alta calidad para el mejor sonido."
         },
         {
             "id": "cables",
             "nombre": "Cables",
-            "imagen": "imagenes/front-end.png",
+            "imagen": "imagenes/cables/portada.png",
             "descripcion": "Cables de todo tipo para tus dispositivos electrónicos."
         }
     ],
