@@ -47,27 +47,22 @@ main h2{
     color: var(--primary-text-color);
 }
 
-.container {
-    max-width: 1400px;
-    margin: auto;
-}
-
 header {
     z-index: 20;
     background-color: var(--primary-bg-color);
 }
 
 header .logo {
-    padding: 25px 30px;
-    font-weight: bold;
+    margin: -10px;
     color: var(--primary-text-color);
-    font-size: 1.6em;
 }
 
 header .container {
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 1400px;
+    height: 240px;
 }
 
 header nav {
@@ -89,16 +84,18 @@ header a:hover {
 }
 
 select {
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
     padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    background-color: white;
+    border: 1px solid rgb(238, 238, 238);
+    border-radius: 10px;
+    background-color: #ffffff;
     color: #333;
     font-size: 16px;
     cursor: pointer;
     transition: 0.3s;
     outline: none;
-    margin-bottom: 20px;
 }
 
 nav select:hover {
@@ -304,15 +301,16 @@ nav select option {
     header {
         position: fixed;
         width: 100%;
-        margin-top: -110px;
+        margin-top: -130px;
         /*Siempre que usamos fixed hay que darle el ancho del 100% */
         }
 
     header .container{
         flex-direction: row;
         justify-content: space-between;
+        height: 110px;   
     }
-    
+
     header nav {
         flex-direction: row;
         padding-bottom: 0;
@@ -320,12 +318,16 @@ nav select option {
     }
 
     main h2 {
-        margin-top: 110px;
+        margin-top: 20px;
         margin-bottom: 30px;
     }
+
+    .h2-index {
+        margin-top: 120px;
+    }
+
     select {
-        margin: 0;
-        margin-right: 20px;
+        margin-top: 130px;
     }}
 
 @media (max-width: 1024px) {
